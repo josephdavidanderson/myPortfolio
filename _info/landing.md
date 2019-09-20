@@ -1,5 +1,5 @@
 ---
-title: My Portfolio
+title: Joe's Amazing Website
 name: landing.md
 image: me.jpg
 ---
